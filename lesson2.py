@@ -32,5 +32,3 @@ plt.title("Top 5 Most Rated Games")
 plt.xlabel("Positive ratings")
 plt.tight_layout()
 plt.show()
-# %%
-print("Hello")
